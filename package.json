@@ -1,0 +1,16 @@
+{
+  "name": "js-workspace",
+  "version": "1.0.0",
+  "description": "js-practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage",
+    "start": "node main.js"
+  },
+  "author": "Ray",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
